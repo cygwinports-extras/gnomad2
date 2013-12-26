@@ -1,0 +1,9 @@
+NAME="gnomad2"
+VERSION=2.9.6
+RELEASE=1
+CATEGORY="Audio"
+SUMMARY="GTK+ music device manager"
+DESCRIPTION="Gnomad2 is a GTK+ music manager and swiss army knife for music
+devices which use either the MTP or PDE protocols."
+HOMEPAGE="http://gnomad2.sourceforge.net/"
+SRC_URI="mirror://sourceforge/gnomad2/${NAME}-${VERSION}.tar.gz"
